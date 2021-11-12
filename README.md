@@ -1,11 +1,14 @@
 ### Hi there 👋
-
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/happykevin13953@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polydou22642264&show_icons=true&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polydou2264&theme=vue-dark)
+
 
 
 <!--
 **polydou2264/polydou2264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
 
 Here are some ideas to get you started:
 
