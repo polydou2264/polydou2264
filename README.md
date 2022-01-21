@@ -1,9 +1,7 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/happykevin13953@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/>
 ![polydou2264's github stats](https://github-readme-stats.vercel.app/api?username=polydou2264&show_icons=true)
-![polydou2264's GitHub stats](https://github-readme-stats.vercel.app/api?username=polydou2264&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polydou2264ID&show_icons=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polydou2264&layout=compact&theme=vue-dark)
+
 
 
 
