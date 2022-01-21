@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
 
-<img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=#FFFFFF"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=FFFFFF"/>
 
 
 
