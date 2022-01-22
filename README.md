@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polydou2264ID&show_icons=true&theme=nord)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polydou2264&show_icons=true&theme=nord)
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
