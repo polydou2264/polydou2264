@@ -3,7 +3,7 @@
 2022, I started studying Flutter and Dart.
 
 
-I'm enjoy playing game, biking and lisening music. 🎮🚲🎧
+I'm enjoy playing game, biking and lisening music. 🎮🚲🎧      
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
