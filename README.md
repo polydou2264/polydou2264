@@ -7,7 +7,6 @@
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=FFFFFF">　
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=FFFFFF">  
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polydou2264ID&show_icons=true&theme=nord)
 
 
 
