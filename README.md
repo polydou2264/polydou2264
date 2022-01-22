@@ -1,7 +1,10 @@
 👋Hi there! I'm Bugil highschool who dreams of becoming a developer! 🚀  
 
-2022, I started studying Flutter and Dart.  
+</br>
 
+2022, I started studying Flutter and Dart.
+
+</br>
 
 I'm enjoy playing game, biking and lisening music. 🎮🚲🎧      
 </br>
